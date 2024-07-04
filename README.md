@@ -58,7 +58,7 @@ For clicks, impressions, and earnings, there are statistically significant diffe
 
 Test statistics were performed on variables including Clicks, Purchases, Impressions, and Earnings. The analysis indicated no significant difference between the control and test campaigns in any of these variables. The maximum bidding strategy (control campaign) generated significantly more clicks per ad. However, the number of products purchased after clicks was slightly higher for the average bidding strategy (test campaign). Additionally, the average bidding strategy resulted in significantly higher earnings and impressions. Based on these results, the average bidding strategy demonstrated slightly higher overall success compared to the maximum bidding strategy, although the differences were not statistically significant.
 
-## Recommendations
+### Recommendations
 
 a. Based on the A/B testing results comparing two Facebook advertising systems, we should consider adopting the average bidding system, as it led to more impressions, purchases, and earnings. Although the maximum bidding strategy produced more clicks, it might not be the most effective for maximizing purchases.
 
@@ -66,7 +66,7 @@ b. Further modifications and A/B testing can be conducted on both maximum and av
 
 c. Facebook could offer multiple ad bidding options, allowing customers to choose the option that best fits their needs and budget.
 
-## References
+### References
 
 Data source: https://www.kaggle.com/datasets/furth3r/facebook-ab-test-of-bidding-feature
 
