@@ -18,8 +18,8 @@ With "average bidding," advertisers specify an average amount they are willing t
 
 ### Test Statistics
 •	Hypothesis: 
-o	H0: there is no statistically significant difference between the two bidding options?
-o	Ha: there is a statistically significant difference between the two bidding options?
+- H0: there is no statistically significant difference between the two bidding options?
+- Ha: there is a statistically significant difference between the two bidding options?
 
 <img width="369" alt="Screenshot 2024-07-03 at 5 49 48 PM" src="https://github.com/ariadnear/AB_Testing/assets/146493977/53660856-9777-4abb-977d-bda459394420">
 
@@ -61,7 +61,9 @@ Test statistics were performed on variables including Clicks, Purchases, Impress
 ## Recommendations
 
 a. Based on the A/B testing results comparing two Facebook advertising systems, we should consider adopting the average bidding system, as it led to more impressions, purchases, and earnings. Although the maximum bidding strategy produced more clicks, it might not be the most effective for maximizing purchases.
+
 b. Further modifications and A/B testing can be conducted on both maximum and average bidding campaigns, or new ad bidding strategies can be proposed.
+
 c. Facebook could offer multiple ad bidding options, allowing customers to choose the option that best fits their needs and budget.
 
 ## References
